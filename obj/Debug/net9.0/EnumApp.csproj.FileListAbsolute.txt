@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\bin\Debug\net9.0\EnumApp.exe
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\bin\Debug\net9.0\EnumApp.deps.json
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\bin\Debug\net9.0\EnumApp.runtimeconfig.json
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\bin\Debug\net9.0\EnumApp.dll
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\bin\Debug\net9.0\EnumApp.pdb
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.dll
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\refint\EnumApp.dll
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.pdb
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\EnumApp.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\c\oop\enum\EnumProject\EnumApp\obj\Debug\net9.0\ref\EnumApp.dll
